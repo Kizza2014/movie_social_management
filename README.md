@@ -1,6 +1,6 @@
 # Movie Social Management
 
-## 1. Overall pipeline
+## 1. Overall pipeline: Lambda architecture
 <p align="center">
     <img src="assets/overall_pipeline.jpg" alt="Overall Pipeline" />
 </p>
